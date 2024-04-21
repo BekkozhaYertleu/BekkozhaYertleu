@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BekkozhaYertleu
+- 👋 Hi, I’m Bek
 - 👀 I’m interested in Backend Developer and solving complex engineering problems.
 - 🌱 I’m currently learning Python Backend Developer tools and developing comprehensive projects
 - 💞️ I’m looking to collaborate on Backend engineering and Software engineering solution and technologies
